@@ -16,7 +16,7 @@ If you want to patch or enhance this component, you will need to create a suitab
 
     # phix
     sudo pear channel-discover pear.phix-project.org
-    sudo pear install --alldeps stuartherbert/phix
+    sudo pear install --alldeps phix/phix
 
 You can then clone the git repository:
 
